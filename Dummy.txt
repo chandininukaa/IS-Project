@@ -1,0 +1,3 @@
+1. What is the URL?
+
+A URL (Uniform Resource Locator) is the specific address used to locate and access resources on the internet. It consists of several components, including the protocol (such as http or https) that indicates how data is transferred, the domain name (which identifies the website, like www.example.com), and optionally a path that leads to a particular page or file on that website. URLs provide a standardized way for users and systems to retrieve resources like web pages, images, or files from the internet. For example, a complete URL might look like this: https://www.example.com/path/to/page.
